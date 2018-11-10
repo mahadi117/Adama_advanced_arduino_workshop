@@ -1,6 +1,6 @@
 # Adama_advanced_arduino_workshop
 
-![Image](https://cdn.shopify.com/s/files/1/0049/0894/1382/files/Advancedworkshop2_large.png?v=1541833145)
+![Image](https://cdn.shopify.com/s/files/1/0049/0894/1382/files/Advancedworkshop2_1024x1024.png?v=1541833145)
 
 Here you can find the slides and Codes for Advanced Arduino Workshop by Adama Robotics.
 
